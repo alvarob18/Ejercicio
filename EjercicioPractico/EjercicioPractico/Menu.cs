@@ -29,13 +29,13 @@ namespace EjercicioPractico
                 {
                     break;
                 }
-                Console.WriteLine("1. Rental by hour, charging $5 per hour");
-                Console.WriteLine("2. Rental by day, charging $20 a day");
-                Console.WriteLine("3. Rental by week, changing $60 a week");
+                Console.WriteLine("1. Alquilar por hora, cargando $5 por hora");
+                Console.WriteLine("2. Alquilar por dia, cargando $20 por dia");
+                Console.WriteLine("3. Alquilar por semana, cargando $60 por semana");
 
                 if (opcionFamiliar != true)
                 {
-                    Console.WriteLine("4. Family Rental, is a promotion that can include from 3 to 5 Rentals (of any type) with a discount of 30% of the total price");
+                    Console.WriteLine("4. Alquiler familiar, es una promocion que puede incluir desde 3 a 5 alquileres (de cualquier tipo) con un descuento de 30% del precio total");
                 }
                 alquiler.Eleccion = Convert.ToInt32(Console.ReadLine());
 
