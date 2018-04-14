@@ -11,9 +11,7 @@ namespace EjercicioPractico
         public void muestraMenu()
         {
             string respuesta = "";
-            bool descuento = false;
             bool opcionFamiliar = false;
-            int eleccion;
             int cont = 0;
             Alquiler alquiler = new Alquiler();
 
