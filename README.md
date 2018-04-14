@@ -14,4 +14,8 @@ tiene una sola clase la cual se llama "UnitTest1" en la cual contiene 4 metodos 
 
 alquiler cumpla su funcion como debe de ser.
 
+para realizar las pruebas use el framework MsTest que viene incluido en visual studio.
+
+para correr las pruebas simplemente se dirige a la pestaña "test" y le da donde dice correr todas las pruebas.
+
 en la clase principal simplemente creo un objeto de la clase "menu" para proceder con la ejecucion del programa.
