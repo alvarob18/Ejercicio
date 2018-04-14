@@ -1,0 +1,6 @@
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\bin\Debug\EjercicioPractico.exe.config
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\bin\Debug\EjercicioPractico.exe
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\bin\Debug\EjercicioPractico.pdb
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\obj\Debug\EjercicioPractico.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\obj\Debug\EjercicioPractico.exe
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\EjercicioPractico\obj\Debug\EjercicioPractico.pdb

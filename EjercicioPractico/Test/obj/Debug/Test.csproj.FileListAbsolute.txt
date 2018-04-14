@@ -1,0 +1,7 @@
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\bin\Debug\Test.dll
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\bin\Debug\Test.pdb
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\bin\Debug\EjercicioPractico.exe
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\bin\Debug\EjercicioPractico.pdb
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\obj\Debug\Test.dll
+c:\users\freddy\documents\visual studio 2013\Projects\EjercicioPractico\Test\obj\Debug\Test.pdb
